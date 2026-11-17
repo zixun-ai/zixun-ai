@@ -4,14 +4,12 @@ I build local-first AI tools for résumé editing and research workflows. I desi
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/zixun-ai/obsidian-paper-reader"><img src="assets/paper-reader.png" alt="Paper Reader in Obsidian: a highlighted PDF passage, the annotation sidebar, and an AI explanation"></a>
-      <br><b>Paper Reader</b> · Obsidian plugin for reading papers
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://zixun-ai.github.io/redline-public/"><img src="assets/redline.png" alt="Redline: an AI suggestion shown beside the original résumé text, with accept and reject buttons"></a>
-      <br><b>Redline</b> · AI résumé review, try it in the browser
-    </td>
+    <td width="50%" valign="top"><a href="https://github.com/zixun-ai/obsidian-paper-reader"><img src="assets/paper-reader.png" alt="Paper Reader in Obsidian: a highlighted PDF passage, the annotation sidebar, and an AI explanation"></a></td>
+    <td width="50%" valign="top"><a href="https://zixun-ai.github.io/redline-public/"><img src="assets/redline.png" alt="Redline: an AI suggestion shown beside the original résumé text, with accept and reject buttons"></a></td>
+  </tr>
+  <tr>
+    <td><b>Paper Reader</b> · Obsidian plugin for reading papers</td>
+    <td><b>Redline</b> · AI résumé review, try it in the browser</td>
   </tr>
 </table>
 
